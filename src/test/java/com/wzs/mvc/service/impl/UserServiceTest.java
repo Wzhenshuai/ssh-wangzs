@@ -1,4 +1,4 @@
-package com.wzs.mvc;
+package com.wzs.mvc.service.impl;
 
 import com.wzs.mvc.entity.User;
 import com.wzs.mvc.service.UserService;

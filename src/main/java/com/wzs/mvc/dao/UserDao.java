@@ -2,7 +2,7 @@ package com.wzs.mvc.dao;
 
 import com.wzs.mvc.entity.User;
 
-public interface UserMapper {
+public interface UserDao {
     int deleteByPrimaryKey(Integer id);
 
     int insert(User record);
