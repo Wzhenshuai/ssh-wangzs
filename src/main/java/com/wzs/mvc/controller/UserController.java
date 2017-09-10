@@ -15,6 +15,7 @@ import javax.servlet.http.HttpServletRequest;
  * Created by Administrator on 2017/9/7 0007.
  */
 @Controller
+@RequestMapping("/user")
 public class UserController {
 
     @Autowired

@@ -5,7 +5,7 @@
   <artifactId>ssh-wangzs</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>demo Maven Webapp</name>
+  <name>Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
     <properties>
@@ -180,7 +180,7 @@
 
     </dependencies>
   <build>
-    <finalName>demo</finalName>
+    <finalName>ssh</finalName>
       <plugins>
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
